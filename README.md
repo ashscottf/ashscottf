@@ -1,1 +1,0 @@
-Hi, I am Ashton Fox. I am currently working on building my profile by adding some coding projects on GitHub. the best way to contact me is by emailing me at: ashscottf@hotmail.com; or calling/texting me at: (218) 421-8032. i am 17 and have been programing since i was 11 (6 years). i started out with HTML, CSS, and JavaScript and i am now fluent in Python.
